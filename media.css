@@ -89,7 +89,7 @@
         flex-direction: column;
     }
     .container .box {
-        top: 199px;
+        top: 380px;
         height: 22%;
         width: 5%;
     }
@@ -104,7 +104,7 @@
     #about .btn {
         margin-top: 1rem;
         padding: 6px 13px;
-        font-size: .9rem;
+        font-size: .7rem;
     }
     .humburger{
         left: 41px;
@@ -144,7 +144,7 @@
     #education::before {
         top: 183px;
         bottom: 0;
-        left: 64px;
+        left: 61px;
     }
     #projects .box {
         width: 73%;
@@ -174,7 +174,7 @@
         height:402px;
     }
     footer .box {
-        margin-left: -1rem;
+        margin-left: 0rem;
     }
     footer h3 {
         font-size: 1rem;

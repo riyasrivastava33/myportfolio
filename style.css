@@ -448,7 +448,7 @@ footer{
     position: relative;
 }
 footer .box{
-   margin-left: -5rem;
+   margin-left: 0rem;
 }
 footer h3{
     font-size: 2rem;
@@ -498,7 +498,7 @@ footer .copyright {
    position: absolute;
    top: 364px;
    bottom: 0;
-   left: 690px;
+   left: 675px;
    color: #fff;
    font-size: 1.2rem;
 }
